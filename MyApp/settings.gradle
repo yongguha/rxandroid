@@ -1,0 +1,9 @@
+include ':RuvieInfo'
+include ':retrofit_example'
+include ':Connectable'
+include ':temperatureFragment'
+include ':rxandroidbook'
+include ':backbutton'
+include ':myrxandroid'
+include ':temperatureObserver'
+rootProject.name = "My Application"
